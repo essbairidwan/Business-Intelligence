@@ -7,7 +7,7 @@
 ## Mini-projet Power BI
 
 **Réalisé par :** Ridwan ES-SBAI\
-**Sous la supervision de :** Pr. Aicha Oussous\
+
 **Année Universitaire :** 2025--2026
 
 ------------------------------------------------------------------------
